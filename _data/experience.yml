@@ -1,4 +1,29 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
-  logo: fellowship.svg
+- role: Senior Cloud Software Engineer
+  company: Fidelity Investments
+  dates: November 2018 - Present
+  logo: fidelity.jpeg
+
+- role: Design Engineer III, Infrastructure Developer
+  company: ADP
+  dates: Septmber 2018 - November 2018
+  logo: adp.jpeg
+
+- role: Design Engineer II, Infrastructure Developer
+  company: ADP
+  dates: October 2017 - September 2018
+  logo: adp.jpeg
+
+- role: Infrastructure and Operations (I&O) Analyst
+  company: ADP
+  dates: October 2015 - October 2017
+  logo: adp.jpeg
+
+- role: Integration Associate
+  company: Alcatel-Lucent
+  dates: Feburary 2015 - October 2015
+  logo: alcatel.png
+
+- role: Tutor
+  company: Mathnasium
+  dates: December 2013 - Feburary 2015
+  logo: mathnasium.png
